@@ -1,5 +1,5 @@
 #include "dev.h"
 
 class A;
-
+class B;
 
